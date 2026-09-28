@@ -1,0 +1,8 @@
+{
+  "IsRunning": true,
+  "ArduinoPortName": "COM11",
+  "ArduinoBaudRate": 115200,
+  "LastDeviceID": "",
+  "SelectedDeviceType": 0,
+  "PairedDevices": []
+}

@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|d:\\my projects\\virtualmousekey\\blem.mousekeyboard\\blem.mousekeyboard\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|solutionrelative:blem.mousekeyboard\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|d:\\my projects\\virtualmousekey\\blem.mousekeyboard\\blem.mousekeyboard\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|solutionrelative:blem.mousekeyboard\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|d:\\my projects\\virtualmousekey\\blem.mousekeyboard\\blem.mousekeyboard\\blem.mousekeyboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|solutionrelative:blem.mousekeyboard\\blem.mousekeyboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|d:\\my projects\\virtualmousekey\\blem.mousekeyboard\\blem.mousekeyboard\\constants\\appconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|solutionrelative:blem.mousekeyboard\\constants\\appconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|d:\\my projects\\virtualmousekey\\blem.mousekeyboard\\blem.mousekeyboard\\views\\mainwindow.defines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|solutionrelative:blem.mousekeyboard\\views\\mainwindow.defines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|d:\\my projects\\virtualmousekey\\blem.mousekeyboard\\blem.mousekeyboard\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|solutionrelative:blem.mousekeyboard\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|d:\\my projects\\virtualmousekey\\blem.mousekeyboard\\blem.mousekeyboard\\models\\bleconnectedinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|solutionrelative:blem.mousekeyboard\\models\\bleconnectedinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|d:\\my projects\\virtualmousekey\\blem.mousekeyboard\\blem.mousekeyboard\\models\\virtualkeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|solutionrelative:blem.mousekeyboard\\models\\virtualkeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|d:\\my projects\\virtualmousekey\\blem.mousekeyboard\\blem.mousekeyboard\\views\\mainwindow.lowhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|solutionrelative:blem.mousekeyboard\\views\\mainwindow.lowhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|d:\\my projects\\virtualmousekey\\blem.mousekeyboard\\blem.mousekeyboard\\helpers\\systemcursormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|solutionrelative:blem.mousekeyboard\\helpers\\systemcursormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|d:\\my projects\\virtualmousekey\\blem.mousekeyboard\\blem.mousekeyboard\\views\\mainwindow.windowapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|solutionrelative:blem.mousekeyboard\\views\\mainwindow.windowapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|d:\\my projects\\virtualmousekey\\blem.mousekeyboard\\blem.mousekeyboard\\enums\\devicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|solutionrelative:blem.mousekeyboard\\enums\\devicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|d:\\my projects\\virtualmousekey\\blem.mousekeyboard\\blem.mousekeyboard\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|solutionrelative:blem.mousekeyboard\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|d:\\my projects\\virtualmousekey\\blem.mousekeyboard\\blem.mousekeyboard\\blem.mousekeyboard.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0835AFC1-ECB3-415B-9B0B-4BB938B103CD}|BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj|solutionrelative:blem.mousekeyboard\\blem.mousekeyboard.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BLEM.MouseKeyboard\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BLEM.MouseKeyboard\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAArwIUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T00:40:28.775Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BLEM.MouseKeyboard\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "BLEM.MouseKeyboard\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-09T00:40:34.342Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BLEM.MouseKeyboard.csproj",
+              "DocumentMoniker": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj",
+              "RelativeDocumentMoniker": "BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj",
+              "ToolTip": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj",
+              "RelativeToolTip": "BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-09T00:56:10.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BleConnectedInfo.cs",
+              "DocumentMoniker": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\Models\\BleConnectedInfo.cs",
+              "RelativeDocumentMoniker": "BLEM.MouseKeyboard\\Models\\BleConnectedInfo.cs",
+              "ToolTip": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\Models\\BleConnectedInfo.cs",
+              "RelativeToolTip": "BLEM.MouseKeyboard\\Models\\BleConnectedInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T14:46:06.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.Defines.cs",
+              "DocumentMoniker": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\Views\\MainWindow.Defines.cs",
+              "RelativeDocumentMoniker": "BLEM.MouseKeyboard\\Views\\MainWindow.Defines.cs",
+              "ToolTip": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\Views\\MainWindow.Defines.cs",
+              "RelativeToolTip": "BLEM.MouseKeyboard\\Views\\MainWindow.Defines.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwBEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T00:18:34.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\Models\\Setting.cs",
+              "RelativeDocumentMoniker": "BLEM.MouseKeyboard\\Models\\Setting.cs",
+              "ToolTip": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\Models\\Setting.cs",
+              "RelativeToolTip": "BLEM.MouseKeyboard\\Models\\Setting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T01:47:48.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppConstants.cs",
+              "DocumentMoniker": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\Constants\\AppConstants.cs",
+              "RelativeDocumentMoniker": "BLEM.MouseKeyboard\\Constants\\AppConstants.cs",
+              "ToolTip": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\Constants\\AppConstants.cs",
+              "RelativeToolTip": "BLEM.MouseKeyboard\\Constants\\AppConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T14:10:01.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VirtualKeys.cs",
+              "DocumentMoniker": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\Models\\VirtualKeys.cs",
+              "RelativeDocumentMoniker": "BLEM.MouseKeyboard\\Models\\VirtualKeys.cs",
+              "ToolTip": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\Models\\VirtualKeys.cs",
+              "RelativeToolTip": "BLEM.MouseKeyboard\\Models\\VirtualKeys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T00:56:49.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.LowHook.cs",
+              "DocumentMoniker": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\Views\\MainWindow.LowHook.cs",
+              "RelativeDocumentMoniker": "BLEM.MouseKeyboard\\Views\\MainWindow.LowHook.cs",
+              "ToolTip": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\Views\\MainWindow.LowHook.cs",
+              "RelativeToolTip": "BLEM.MouseKeyboard\\Views\\MainWindow.LowHook.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAQwGcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T00:59:44.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SystemCursorManager.cs",
+              "DocumentMoniker": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\Helpers\\SystemCursorManager.cs",
+              "RelativeDocumentMoniker": "BLEM.MouseKeyboard\\Helpers\\SystemCursorManager.cs",
+              "ToolTip": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\Helpers\\SystemCursorManager.cs",
+              "RelativeToolTip": "BLEM.MouseKeyboard\\Helpers\\SystemCursorManager.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwFEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T01:13:54.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.WindowAPI.cs",
+              "DocumentMoniker": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\Views\\MainWindow.WindowAPI.cs",
+              "RelativeDocumentMoniker": "BLEM.MouseKeyboard\\Views\\MainWindow.WindowAPI.cs",
+              "ToolTip": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\Views\\MainWindow.WindowAPI.cs",
+              "RelativeToolTip": "BLEM.MouseKeyboard\\Views\\MainWindow.WindowAPI.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAkwEsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T02:44:25.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeviceType.cs",
+              "DocumentMoniker": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\Enums\\DeviceType.cs",
+              "RelativeDocumentMoniker": "BLEM.MouseKeyboard\\Enums\\DeviceType.cs",
+              "ToolTip": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\Enums\\DeviceType.cs",
+              "RelativeToolTip": "BLEM.MouseKeyboard\\Enums\\DeviceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T15:02:19.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\App.xaml",
+              "RelativeDocumentMoniker": "BLEM.MouseKeyboard\\App.xaml",
+              "ToolTip": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\App.xaml",
+              "RelativeToolTip": "BLEM.MouseKeyboard\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-09T01:55:22.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BLEM.MouseKeyboard",
+              "DocumentMoniker": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj",
+              "RelativeDocumentMoniker": "BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj",
+              "ToolTip": "D:\\My Projects\\VirtualMouseKey\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj",
+              "RelativeToolTip": "BLEM.MouseKeyboard\\BLEM.MouseKeyboard.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-09T00:53:06.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
